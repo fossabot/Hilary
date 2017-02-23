@@ -75,6 +75,7 @@
     "passport-oauth2-client-password": "latest",
     "passport-openid": "latest",
     "passport-twitter": "latest",
+    "password-generator": "latest",
     "properties-parser": "latest",
     "rails-timezone": "latest",
     "readdirp": "latest",
