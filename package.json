@@ -115,12 +115,8 @@
     "oauth": "latest",
     "tough-cookie": "latest",
     "shelljs": "latest",
-<<<<<<< HEAD
-    "sockjs-client-ws": "latest"
-=======
     "sockjs-client-ws": "latest",
     "ws": "1.1.2"
->>>>>>> e0ca959d61b14021c9fd0d0e7fb597c274f4603e
   },
   "optionalDependencies": {
     "bunyan-syslog": "latest",
