@@ -34,6 +34,7 @@
     "connect-redis": "latest",
     "cookie-parser": "latest",
     "cookie-session": "latest",
+    "cron": "latest",
     "csv": "latest",
     "data-structures": "latest",
     "dox": "latest",
