@@ -5,7 +5,7 @@
   "homepage": "http://www.oaeproject.org",
   "author": {
     "name": "The Apereo Foundation",
-    "email": "oae@apereo.org"
+    "email": "oaeproject@gmail.com"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/oaeproject/Hilary/issues"
   },
-  "license": "ECL-2.0",
+  "license" : "ECL-2.0",
   "dependencies": {
     "amqp": "git://github.com/oaeproject/node-amqp#0.1.8.x",
     "async": "^2.1.5",
@@ -22,7 +22,6 @@
     "body-parser": "latest",
     "bunyan": "latest",
     "bunyan-prettystream": "latest",
-    "cassandra-driver": "^3.2.1",
     "chance": "latest",
     "cheerio": "latest",
     "clone": "latest",
@@ -42,23 +41,25 @@
     "gift": "latest",
     "globalize": "0.1.1",
     "gm": "latest",
+    "helenus": "latest",
     "juice": "latest",
     "less": "1.7.5",
     "locale": "latest",
     "lunr": "1.0.0",
-    "mailparser": "0.6.2",
-    "make-dir": "^1.0.0",
-    "marked": "^0.3.6",
+    "mailparser": "latest",
+    "marked": "latest",
     "mime": "latest",
     "mixpanel": "latest",
     "mkdirp": "latest",
     "mobile-detect": "latest",
     "multiparty": "latest",
     "node-esapi": "latest",
-    "nodemailer": "2.4.1",
+    "nodemailer": "latest",
     "nodemailer-html-to-text": "latest",
     "nodemailer-sendmail-transport": "latest",
     "nodemailer-stub-transport": "latest",
+    "oae-rest": "latest",
+    "oauth2orize": "latest",
     "oauth-sign": "latest",
     "oauth2orize": "latest",
     "optimist": "latest",
@@ -81,6 +82,7 @@
     "redback": "latest",
     "redis": "latest",
     "request": "2.47.0",
+    "restjsdoc": "latest",
     "rimraf": "latest",
     "selectn": "latest",
     "shortid": "latest",
@@ -144,7 +146,6 @@
     "oae-preview-processor",
     "oae-principals",
     "oae-resource",
-    "oae-rest",
     "oae-search",
     "oae-telemetry",
     "oae-tenants",
@@ -153,11 +154,10 @@
     "oae-ui",
     "oae-uservoice",
     "oae-util",
-    "oae-version",
-    "restjsdoc"
+    "oae-version"
   ],
   "engines": {
-    "node": ">=6.11.1"
+    "node": "6.x"
   },
   "scripts": {
     "test": "grunt"
