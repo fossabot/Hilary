@@ -1,6 +1,7 @@
 language: node_js
+dist: precise
 node_js:
-  - "0.10.30"
+  - "6.11.1"
 
 branches:
   only:
@@ -127,4 +128,4 @@ notifications:
   irc:
     channels:
         - "irc.freenode.org#oae"
-    skip_join: true
+skip_join: true
