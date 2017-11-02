@@ -74,6 +74,7 @@
     "passport-oauth2-client-password": "latest",
     "passport-openid": "latest",
     "passport-twitter": "latest",
+    "password-generator": "latest",
     "properties-parser": "latest",
     "rails-timezone": "latest",
     "range_check": "^1.4.0",
@@ -152,6 +153,7 @@
     "oae-tenants",
     "oae-tests",
     "oae-tincanapi",
+    "oae-transfer",
     "oae-ui",
     "oae-uservoice",
     "oae-util",
@@ -163,5 +165,5 @@
   },
   "scripts": {
     "test": "grunt"
-  }
+  } 
 }
