@@ -128,8 +128,5 @@ notifications:
   irc:
     channels:
         - "irc.freenode.org#oae"
-<<<<<<< HEAD
+
 skip_join: true
-=======
-    skip_join: true
->>>>>>> b8ae07ccdac06ba0ab301371849644bc9d0b3ceb
