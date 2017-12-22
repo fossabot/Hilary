@@ -39,6 +39,7 @@ module.exports = function(grunt) {
         },
         'jshint': {
             'options': {
+                'esversion': 6,
                 'node': true,
                 'sub': true,
                 'indent': 4,
