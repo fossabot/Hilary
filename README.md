@@ -11,6 +11,7 @@ Hilary is the back-end for the [Open Academic Environment](http://www.oaeproject
 [![Code Climate](https://codeclimate.com/github/oaeproject/Hilary/badges/gpa.svg)](https://codeclimate.com/github/oaeproject/Hilary)
 [![dependencies](https://david-dm.org/oaeproject/Hilary.svg)](https://david-dm.org/oaeproject/Hilary)
 [![devdependencies](https://david-dm.org/oaeproject/Hilary/dev-status.svg)](https://david-dm.org/oaeproject/Hilary#info=devDependencies)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FClaireLozano%2FHilary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FClaireLozano%2FHilary?ref=badge_shield)
 
 ## Installation
 
@@ -325,3 +326,7 @@ The project website can be found at http://www.oaeproject.org. The [project blog
 The mailing list used for Apereo OAE is oae@apereo.org. You can subscribe to the mailing list at https://groups.google.com/a/apereo.org/d/forum/oae.
 
 Bugs and other issues can be reported in our [issue tracker](https://github.com/oaeproject/Hilary/issues). Ideas for new features and capabilities can be suggested and voted for in our [UserVoice page](http://oaeproject.uservoice.com).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FClaireLozano%2FHilary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FClaireLozano%2FHilary?ref=badge_large)
